@@ -1,0 +1,38 @@
+[
+    {
+        "name":"ACA",
+        "value":"aca"
+    },
+    {
+        "name":"Debt",
+        "value":"debt"
+    },
+    {
+        "name":"Pest Control",
+        "value":"pest_control"
+    },
+    {
+        "name":"U65 Health Insurance",
+        "value":"health_insurance"
+    },
+    {
+        "name":"Final Expense",
+        "value":"final_expense"
+    },
+    {
+        "name":"Electrician",
+        "value":"electrician"
+    },
+    {
+        "name":"Plumbing",
+        "value":"plumbing"
+    },
+    {
+        "name":"Window Replacement",
+        "value":"window_replacement"
+    },
+    {
+        "name":"Medicare",
+        "value":"medicare"
+    }
+]

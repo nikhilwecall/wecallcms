@@ -1,0 +1,14 @@
+[
+    {
+        "name":"Insurance",
+        "value":"insurance"
+    },
+    {
+        "name":"Home Services",
+        "value":"home_services"
+    },
+    {
+        "name":"Finance",
+        "value":"finance"
+    }
+]

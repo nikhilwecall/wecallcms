@@ -1,0 +1,286 @@
+[
+  {
+    "name": "50onRed",
+    "value": "50onred"
+  },
+  {
+    "name": "A4G",
+    "value": "A4G"
+  },
+  {
+    "name": "Active Revenue",
+    "value": "activerevenue"
+  },
+  {
+    "name": "AdCash",
+    "value": "adcash"
+  },
+  {
+    "name": "Adextrem",
+    "value": "adextrem"
+  },
+  {
+    "name": "AdMaven",
+    "value": "admaven"
+  },
+  {
+    "name": "Admixer",
+    "value": "admixer"
+  },
+  {
+    "name": "Adnium",
+    "value": "adnium"
+  },
+  {
+    "name": "Ad Operator",
+    "value": "adoperator"
+  },
+  {
+    "name": "Ad Optim",
+    "value": "adoptim"
+  },
+  {
+    "name": "AD Spy Glass",
+    "value": "adspyglass"
+  },
+  {
+    "name": "Adsterra",
+    "value": "adsterra"
+  },
+  {
+    "name": "AdSupply",
+    "value": "adsupply"
+  },
+  {
+    "name": "ADxAD",
+    "value": "adxad"
+  },
+  {
+    "name": "AirPush",
+    "value": "airpush"
+  },
+  {
+    "name": "Appnext",
+    "value": "appnext"
+  },
+  {
+    "name": "Avazu",
+    "value": "avazu"
+  },
+  {
+    "name": "Click Adilla",
+    "value": "clickadilla"
+  },
+  {
+    "name": "Clickadu",
+    "value": "clickadu"
+  },
+  {
+    "name": "Content.ad",
+    "value": "contentad"
+  },
+  {
+    "name": "Ero Advertising",
+    "value": "eroadvertising"
+  },
+  {
+    "name": "Eva Dav",
+    "value": "evadav"
+  },
+  {
+    "name": "exoClick",
+    "value": "exoclick"
+  },
+  {
+    "name": "Facebook",
+    "value": "facebook"
+  },
+  {
+    "name": "Google",
+    "value": "google"
+  },
+  {
+    "name": "Hilltop Ads",
+    "value": "hilltopads"
+  },
+  {
+    "name": "Instragram",
+    "value": "instragram"
+  },
+  {
+    "name": "Kayzen",
+    "value": "kayzen"
+  },
+  {
+    "name": "Lead Bolt",
+    "value": "leadbolt"
+  },
+  {
+    "name": "Megapu.sh",
+    "value": "megapu"
+  },
+  {
+    "name": "MGID",
+    "value": "mgid"
+  },
+  {
+    "name": "Bing Ads",
+    "value": "microsoft"
+  },
+  {
+    "name": "Millenial Media",
+    "value": "millenial"
+  },
+  {
+    "name": "MobFox",
+    "value": "mobfox"
+  },
+  {
+    "name": "Mobusi",
+    "value": "mobusi"
+  },
+  {
+    "name": "Noviclick",
+    "value": "noviclick"
+  },
+  {
+    "name": "Outbrain",
+    "value": "outbrain"
+  },
+  {
+    "name": "Pinterest",
+    "value": "pinterest"
+  },
+  {
+    "name": "Plug Rush",
+    "value": "plugrush"
+  },
+  {
+    "name": "Pop Ads",
+    "value": "popads"
+  },
+  {
+    "name": "Pop Cash",
+    "value": "popcash"
+  },
+  {
+    "name": "Propeller Ads",
+    "value": "propellerads"
+  },
+  {
+    "name": "Push House",
+    "value": "pushhouse"
+  },
+  {
+    "name": "Push Ground",
+    "value": "pushground"
+  },
+  {
+    "name": "Reach Effect",
+    "value": "reacheffect"
+  },
+  {
+    "name": "Rev Content",
+    "value": "revcontent"
+  },
+  {
+    "name": "RevMob",
+    "value": "revmob"
+  },
+  {
+    "name": "Richpops",
+    "value": "richpops"
+  },
+  {
+    "name": "Richpush",
+    "value": "richpush"
+  },
+  {
+    "name": "RUNative",
+    "value": "runative"
+  },
+  {
+    "name": "Self Advertiser",
+    "value": "selfadvertiser"
+  },
+  {
+    "name": "Site Scout",
+    "value": "sitescout"
+  },
+  {
+    "name": "Snapchat",
+    "value": "snapchat"
+  },
+  {
+    "name": "SolAds Media",
+    "value": "solads media"
+  },
+  {
+    "name": "Start App",
+    "value": "startapp"
+  },
+  {
+    "name": "Taboola",
+    "value": "taboola"
+  },
+  {
+    "name": "TapIt",
+    "value": "tapit"
+  },
+  {
+    "name": "Tiktok",
+    "value": "tiktok"
+  },
+  {
+    "name": "TONIC",
+    "value": "tonic"
+  },
+  {
+    "name": "Traffic Junky",
+    "value": "trafficjunky"
+  },
+  {
+    "name": "Traffic Factory",
+    "value": "trafficfactory"
+  },
+  {
+    "name": "Traffic Force",
+    "value": "trafficforce"
+  },
+  {
+    "name": "Traffic Stars",
+    "value": "trafficstars"
+  },
+  {
+    "name": "Twitter",
+    "value": "twitter"
+  },
+  {
+    "name": "Ung Ads",
+    "value": "ungads"
+  },
+  {
+    "name": "Yahoo",
+    "value": "yahoo"
+  },
+  {
+    "name": "Wiget",
+    "value": "wiget"
+  },
+  {
+    "name": "Yandex",
+    "value": "yandex"
+  },
+  {
+    "name": "Yeesshh",
+    "value": "yeesshh"
+  },
+  {
+    "name": "YouTube",
+    "value": "google"
+  },
+  {
+    "name": "Zwaar Network",
+    "value": "zwaar"
+  }
+]
