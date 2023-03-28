@@ -7,6 +7,7 @@
     "tikTok":"",
     "industry":"",
     "vertical":"medicareaca",
+    "websiteTitle":"",
     "storyblockAccessToken": "gVJgZvajxLWDT0saMgTqswtt"
   },
   {
@@ -16,6 +17,7 @@
     "volumUrl": "https://track.realseniorbenefits.com/d/.js",
     "tikTok":"",
     "industry":"",
+     "websiteTitle":"Localhost",
     "vertical":"medicareaca",
     "storyblockAccessToken": "gVJgZvajxLWDT0saMgTqswtt"
   }
