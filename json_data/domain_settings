@@ -1,0 +1,22 @@
+[
+  {
+    "name": "qualifybenefits.co",
+    "gtm": "GTM-TC59FRB",
+    "facebookPixel": "687474176447071",
+    "volumUrl": "https://track.qualifybenefits.co/d/.js",
+    "tikTok":"",
+    "industry":"",
+    "vertical":"medicareaca",
+    "storyblockAccessToken": ""
+  },
+  {
+    "name": "justseniorbenefits.com",
+    "gtm": "GTM-THXW4VH",
+    "facebookPixel": "532418778266412",
+    "volumUrl": "https://track.realseniorbenefits.com/d/.js",
+    "tikTok":"",
+    "industry":"",
+    "vertical":"medicareaca",
+    "storyblockAccessToken": ""
+  },
+]
