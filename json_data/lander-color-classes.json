@@ -1,0 +1,42 @@
+[
+    {
+        "name":"Blue",
+        "value":"blue"
+    },
+    {
+        "name":"Yellow",
+        "value":"yellow"
+    },
+    {
+        "name":"Red",
+        "value":"red"
+    },
+    {
+        "name":"Sky Blue",
+        "value":"skyblue"
+    },
+    {
+        "name":"Light Green",
+        "value":"lightgreen"
+    },
+    {
+        "name":"Gray",
+        "value":"gray"
+    },
+    {
+        "name":"White",
+        "value":"white"
+    },
+    {
+        "name":"Black",
+        "value":"black"
+    },
+    {
+        "name":"Light gray",
+        "value":"lightgray"
+    },
+    {
+        "name":"Pastel Gray",
+        "value":"pastelgray"
+    }
+]
