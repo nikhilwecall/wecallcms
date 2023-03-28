@@ -1,0 +1,42 @@
+[
+    {
+        "name":"Blue",
+        "value":"bg-blue"
+    },
+    {
+        "name":"Yellow",
+        "value":"bg-yellow"
+    },
+    {
+        "name":"Red",
+        "value":"bg-red"
+    },
+    {
+        "name":"Sky Blue",
+        "value":"bg-skyblue"
+    },
+    {
+        "name":"Light Green",
+        "value":"bg-lightgreen"
+    },
+    {
+        "name":"Gray",
+        "value":"bg-gray"
+    },
+    {
+        "name":"White",
+        "value":"bg-white"
+    },
+    {
+        "name":"Black",
+        "value":"bg-black"
+    },
+    {
+        "name":"Light gray",
+        "value":"bg-lightgray"
+    },
+    {
+        "name":"Pastel Gray",
+        "value":"bg-pastelgray"
+    }
+]
