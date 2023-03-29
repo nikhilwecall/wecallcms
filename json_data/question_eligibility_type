@@ -1,0 +1,10 @@
+[
+    {
+        "name":"Qualify",
+        "value":"qualify"
+    },
+    {
+        "name":"Disqualify",
+        "value":"disqualify"
+    }
+]
