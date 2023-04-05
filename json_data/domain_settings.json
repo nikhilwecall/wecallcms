@@ -1,48 +1,55 @@
 [
-  {
-    "name": "qualifybenefits.co",
-    "gtm": "GTM-TC59FRB",
-    "facebookPixel": "687474176447071",
-    "volumUrl": "https://track.qualifybenefits.co/d/.js",
-    "tikTok":"",
-    "industry":"",
-    "vertical":"medicareaca",
-    "websiteTitle":"",
-    "storyblockAccessToken": "gVJgZvajxLWDT0saMgTqswtt"
-  },
-  {
-    "name": "localhost",
-    "gtm": "GTM-THXW4VH",
-    "facebookPixel": "532418778266412",
-    "volumUrl": "https://track.realseniorbenefits.com/d/.js",
-    "tikTok":"",
-    "industry":"",
-     "websiteTitle":"Localhost",
-    "vertical":"medicareaca",
-    "storyblockAccessToken": "gVJgZvajxLWDT0saMgTqswtt"
-  },
-  {
-    "name": "lander-main-microservice.netlify.app",
-    "gtm": "GTM-THXW4VH",
-    "facebookPixel": "532418778266412",
-    "volumUrl": "https://track.realseniorbenefits.com/d/.js",
-    "tikTok":"",
-    "industry":"",
-     "websiteTitle":"Localhost",
-    "vertical":"medicareaca",
-    "storyblockAccessToken": "gVJgZvajxLWDT0saMgTqswtt"
-  },
     {
-    "name": "lander.improveourcredit.com",
-    "gtm": "GTM-THXW4VH",
-    "facebookPixel": "532418778266412",
-    "volumUrl": "https://track.improveourcredit.com/d/.js",
-    "volumNoScript": "https://track.improveourcredit.com/d/.js?noscript=true&lpurl=",
-     "volumMeta":"https://track.improveourcredit.com",
-    "tikTok":"",
-    "industry":"",
-     "websiteTitle":"Localhost",
-    "vertical":"medicareaca",
-    "storyblockAccessToken": "gVJgZvajxLWDT0saMgTqswtt"
-  }
+        "name": "qualifybenefits.co",
+        "gtm": "GTM-TC59FRB",
+        "facebookPixel": "687474176447071",
+        "volumUrl": "https://track.qualifybenefits.co/d/.js",
+        "tikTok": "",
+        "industry": "",
+        "vertical": "medicareaca",
+        "websiteTitle": "",
+        "storyblockAccessToken": "gVJgZvajxLWDT0saMgTqswtt"
+    },
+    {
+        "name": "localhost",
+        "gtm": "GTM-THXW4VH",
+        "facebookPixel": "532418778266412",
+        "volumUrl": "https://track.realseniorbenefits.com/d/.js",
+        "tikTok": "",
+        "industry": "",
+        "websiteTitle": "Localhost",
+        "vertical": "medicareaca",
+        "storyblockAccessToken": "gVJgZvajxLWDT0saMgTqswtt"
+    },
+    {
+        "name": "lander-main-microservice.netlify.app",
+        "gtm": "GTM-THXW4VH",
+        "facebookPixel": "532418778266412",
+        "volumUrl": "https://track.realseniorbenefits.com/d/.js",
+        "tikTok": "",
+        "industry": "",
+        "websiteTitle": "Localhost",
+        "vertical": "medicareaca",
+        "storyblockAccessToken": "gVJgZvajxLWDT0saMgTqswtt"
+    },
+    {
+        "name": "lander.improveourcredit.com",
+        "gtm": "GTM-THXW4VH",
+        "facebookPixel": "532418778266412",
+        "volum": {
+            "url": "https://track.improveourcredit.com/d/.js",
+            "noScript": "https://track.improveourcredit.com/d/.js?noscript=true&lpurl=",
+            "meta": "https://track.improveourcredit.com"
+        },
+        "metaDetails": {
+            "og:title": "",
+            "og:description": "",
+            "og:site_name": ""
+        },
+        "tikTok": "",
+        "industry": "",
+        "websiteTitle": "Localhost",
+        "vertical": "medicareaca",
+        "storyblockAccessToken": "gVJgZvajxLWDT0saMgTqswtt"
+    }
 ]
