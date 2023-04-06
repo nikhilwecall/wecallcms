@@ -42,9 +42,11 @@
             "meta": "https://track.improveourcredit.com"
         },
         "metaDetails": {
-            "og:title": "",
-            "og:description": "",
-            "og:site_name": ""
+            "og:title": "og title",
+            "og:description": "og description",
+            "og:site_name": "og site_name",
+            "title": "Meta title",
+            "description": "Meta Description"
         },
         "tikTok": "",
         "industry": "",
