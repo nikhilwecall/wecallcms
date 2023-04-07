@@ -1,18 +1,18 @@
 [
     {
         "name":"small",
-        "value":"25%"
+        "value":"btn-small"
     },
     {
         "name":"medium",
-        "value":"33%"
+        "value":"btn-medium"
     },
     {
         "name":"large",
-        "value":"50%"
+        "value":"btn-large"
     },
     {
         "name":"extra large",
-        "value":"100%"
+        "value":"btn-extra-large"
     }
 ]
