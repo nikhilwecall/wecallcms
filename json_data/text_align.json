@@ -1,0 +1,14 @@
+[
+    {
+        "name":"Center",
+        "value":"text-align-center"
+    },
+    {
+        "name":"Left",
+        "value":"text-align-left"
+    },
+    {
+        "name":"Right",
+        "value":"text-align-right"
+    }
+]
