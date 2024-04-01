@@ -18,5 +18,9 @@
     {
         "name":"Age",
         "value":"age"
+    },
+    {
+        "name":"Health Insurance",
+        "value":"healthInsurance"
     }
 ]
